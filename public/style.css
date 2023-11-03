@@ -1,0 +1,17 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+.container {
+    padding-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+/* Add more custom styles as needed */
